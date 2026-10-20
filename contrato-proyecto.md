@@ -5,7 +5,7 @@
 Entre:
 
 * **Solicitante:** Alejandro Rodriguez
-* **Responsable del desarrollo:** Maximo [completar apellido]
+* **Responsable del desarrollo:** Maximo Mule
 
 Se acuerda el presente contrato para la definición y ejecución del proyecto técnico descrito en este documento.
 
